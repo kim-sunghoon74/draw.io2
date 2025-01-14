@@ -111,6 +111,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2SAI_XX-xX0SaPUI6NSl-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;graph TD&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; A[영업 단계] --&amp;gt; B[Spec 검토 및 주요 사항 영업 부서 공유]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; B --&amp;gt; C[요구 수준 완화 또는 견적 조정 제안]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; C --&amp;gt; D[수주 직후]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; D --&amp;gt; E[Spec Clarification 수행]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; E --&amp;gt; F[발주처 협의 필요 시 Clarification/Deviation 진행]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; F --&amp;gt; G[공사 준비 단계]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; G --&amp;gt; H[WPS 준비: Register 작성 및 Plan 제출]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; H --&amp;gt; I[WPQT 수행: 용접/비파괴검사/기계시험]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; I --&amp;gt; J[PQR 작성 및 WPS 작성]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; J --&amp;gt; K[공사 착수 단계]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; K --&amp;gt; L[현업 피드백 반영하여 WPS 개정]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; L --&amp;gt; M[설계 변경, 추가 재질 등에 따른 WPS 추가 작성]&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; M --&amp;gt; N[생산성 및 효율성 개선 WPS 추가 가능]&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="560" height="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
